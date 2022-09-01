@@ -1,0 +1,35 @@
+<!-- 
+    Video 13 :
+                [] Image : <img src="" alt="" width="" height="">
+                           src  => Source Image
+                           alt  => Alternate Text
+
+-->
+
+<!-- 
+    Video 14 :
+                [] List : ul => Unordered List
+                          li => List Item
+                          ol => Ordered List
+                                Reversed Attrubite => Reverse The Ordering
+                                type Attrubite => Type Of Ordering
+                                Start Attrubite => Start From Position
+                          dl => Description List
+                          dt => Term
+                          dd => Description Term
+-->
+<!-- 
+    Video 13 :
+-->
+<!-- 
+    Video 13 :
+-->
+<!-- 
+    Video 13 :
+-->
+<!-- 
+    Video 13 :
+-->
+<!-- 
+    Video 13 :
+-->
