@@ -19,17 +19,80 @@
                           dd => Description Term
 -->
 <!-- 
-    Video 13 :
+    Video 15 :
+                [] Table : tr => Table Row
+                           td => Table Data Cell
+                           th => Table Head
+                           Thead
+                           Tbody
+                           Tfoot
+                           Caption => Title Of Table 
 -->
 <!-- 
-    Video 13 :
+    Video 16 :
+                [1] Span : Isolate any Text form Paragraph
+                [2] <br> : Break Line
+                [3] <hr> : Horizontal  Block Line
 -->
 <!-- 
-    Video 13 :
+    Video 17 :
+                [] Div : Container of Elements & Use To Styling all Elements in it             
 -->
 <!-- 
-    Video 13 :
+    Video 18 :
+                [] Entities : &lt; => <
+                              &gt; => >
+                              &asymp; => ≈
+                              &copy; => ©
 -->
 <!-- 
-    Video 13 :
+   Video 19 :
+                [] Semantic Element : Header => Top of Page
+                                      Nav => Side of page
+                                      Aside => Side of page
+                                      Artical => Paragraph
+                                      Section => Like of Div
+                                      Main => Main Page 
+                                      footer => End of Page              
+-->
+<!-- 
+    Video 20 :
+                [] Layout with Div and Classes : Make Layout Without style
+-->
+<!-- 
+    Video 21 :
+                [] Layout with Semantic Elements : Make Layout Without style
+-->
+<!-- 
+    Video 22 :
+                [] Audio : src => Source
+                           type => MIME type
+                           controls => Attrubite that add audio control like play , stop & volume
+                           autoplay => Attrubite that make autoplay to your audio when open page
+                           loop => Attrubite make Audio start again when it finished
+                           muted => Attrubite make audio start with mute  
+-->
+<!-- 
+    Video 23 :
+                [] Video : src => Source
+                           type => MIME type
+                           controls => Attrubite that add Video control like play , stop & volume
+                           autoplay => Attrubite that make autoplay to your Video when open page
+                           loop => Attrubite make Audio start again when it finished
+                           muted => Attrubite make audio start with mute
+                           poster => put Pic until Video is loaded
+                           track => Put additional feature to translate video or discreption
+                           width
+                           height
+                           preload  
+-->
+<!-- 
+    Video 24 :
+                [] Form : type => type of input
+                          name =>
+                          label => define the input
+                          submit => Button to send data
+                          required => Attrubite which must fill input
+                          placeholder => hint from input to tell user for it
+                          vlaue => put fixed input to appear to user to change it  
 -->
